@@ -16,10 +16,7 @@
     # No fim da listagem deve ser exibido o saldo atual da conta
     # Os valores devem ser exibidos no formato  R$ xxx.xx -> R$ 1500.45
 
-'''
-FALTA TESTAR E SUBIR NO GIT
 
-'''
 
 saldo_conta = 0
 limite_saque_qtd = 3
